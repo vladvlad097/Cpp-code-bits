@@ -2,6 +2,7 @@
 #include<queue>
 using namespace std;
 
+//less efficient but a bit cleaner
 
 int GetMax(int arr[], int arraySize)	//find max number of digits
 {
